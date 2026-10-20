@@ -1,0 +1,5216 @@
+[
+  {
+    "state": "Bayelsa",
+    "lga": "Brass",
+    "name": "Okpoama Cottage Hospital",
+    "datimCode": "uuRq7RHFOm4"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Brass",
+    "name": "Twon-Brass General Hospital",
+    "datimCode": "VmAoro8EGIz"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Ogbia",
+    "name": "Otuasega Cottage Hospital",
+    "datimCode": "FeJHkTR47jp"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Ogbia",
+    "name": "Kolo General Hospital",
+    "datimCode": "mSFwZ4NPQuY"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Ogbia",
+    "name": "Landmark Medical Centre",
+    "datimCode": "JZL6IMoe5G3"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Ekeremor",
+    "name": "Aleibiri Cottage Hospital",
+    "datimCode": "HkCwpGHJ69N"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Nembe",
+    "name": "Nembe General Hospital",
+    "datimCode": "PqIG8tDLCBv"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Sagbama",
+    "name": "Ebedebiri Cottage Hospital",
+    "datimCode": "sTlSdQL4Vfn"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Sagbama",
+    "name": "Sagbama General Hospital",
+    "datimCode": "Ag7NgvhCbeD"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Southern Ijaw",
+    "name": "Amassoma General Hospital",
+    "datimCode": "rrXtIriTtBY"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Southern Ijaw",
+    "name": "Olugbobiri Comprehensive Health Centre",
+    "datimCode": "uODysfU48Tg"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Southern Ijaw",
+    "name": "Peremabiri Cottage Hospital",
+    "datimCode": "Q0j6B6ZEPyg"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "Agudama Ekpetima (Hub) General Hospital",
+    "datimCode": "RCGjW1DW7Gl"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "Diete-Koki Memorial Specialist Hospital Yenegoa",
+    "datimCode": "ZmhIOfFGyFd"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "Mercy and Favour Clinic & Diagonistic Center - Polaku",
+    "datimCode": "SoQeEge5A3R"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "New Survivor Hospital - Igbo-Gene",
+    "datimCode": "YAnAxydtYKq"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "St. George Hospital - Okutukutu",
+    "datimCode": "zOcpMnPHG8G"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "Agudama Tobis Clinic and Consultants",
+    "datimCode": "cMNSAETndkr"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "Family Support Program Clinic",
+    "datimCode": "PDYMEuWILSG"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "Inri Etekwe Glory Land",
+    "datimCode": "GKcLvNya0v1"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "Kpansia Asueife New Life Hospital",
+    "datimCode": "hkVNPOmvZrx"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "Niger Delta University Teaching Hospital",
+    "datimCode": "PI23kX7kKce"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "Yenagoa Federal Medical Centre",
+    "datimCode": "DBYxE32AtXd"
+  },
+  {
+    "state": "Bayelsa",
+    "lga": "Yenagoa",
+    "name": "Igbogene Tuberculosis and Leprosy Referral Centre",
+    "datimCode": "eOrrK6aBIrt"
+  },
+  {
+    "state": "Edo",
+    "lga": "Orhionmwon",
+    "name": "Oben Cottage Hospital",
+    "datimCode": "cihXXrU8ccN"
+  },
+  {
+    "state": "Edo",
+    "lga": "Orhionmwon",
+    "name": "Ossiomio Specialist Hospital",
+    "datimCode": "ev7p3ZXSypf"
+  },
+  {
+    "state": "Edo",
+    "lga": "Orhionmwon",
+    "name": "Abudu General Hospital",
+    "datimCode": "XM5FIOVzxeq"
+  },
+  {
+    "state": "Edo",
+    "lga": "Owan East",
+    "name": "Afuze Referral Medical Centre",
+    "datimCode": "sOytnsaHQHm"
+  },
+  {
+    "state": "Edo",
+    "lga": "Etsako East",
+    "name": "Okugbe \u00c2\u00a0Primary Health Centre",
+    "datimCode": "hLmApvMWwhL"
+  },
+  {
+    "state": "Edo",
+    "lga": "Etsako East",
+    "name": "Agenebode General Hospital",
+    "datimCode": "q2JGDM361oa"
+  },
+  {
+    "state": "Edo",
+    "lga": "Etsako West",
+    "name": "Auchi Central Hospital",
+    "datimCode": "MuYD8OawdzS"
+  },
+  {
+    "state": "Edo",
+    "lga": "Etsako West",
+    "name": "Santa Maria Catholic Hospital",
+    "datimCode": "bSGThj4mGr5"
+  },
+  {
+    "state": "Edo",
+    "lga": "Oredo",
+    "name": "St Philomena Catholic Hospital",
+    "datimCode": "BVY7GQhKEOJ"
+  },
+  {
+    "state": "Edo",
+    "lga": "Oredo",
+    "name": "ed Benin Central Hospital",
+    "datimCode": "NpZ66HtziLp"
+  },
+  {
+    "state": "Edo",
+    "lga": "Oredo",
+    "name": "Faith Mediplex",
+    "datimCode": "qENsgINaipc"
+  },
+  {
+    "state": "Edo",
+    "lga": "Oredo",
+    "name": "Stella Obasanjo Women and Children Hospital",
+    "datimCode": "ClvpY2CmBNj"
+  },
+  {
+    "state": "Edo",
+    "lga": "Esan West",
+    "name": "Ekpoma General Hospital",
+    "datimCode": "MbdvhJg5Jag"
+  },
+  {
+    "state": "Edo",
+    "lga": "Esan West",
+    "name": "Iruekpen General Hospital",
+    "datimCode": "NAGd5Q25uMa"
+  },
+  {
+    "state": "Edo",
+    "lga": "Akoko-Edo",
+    "name": "Alafia Specialist Hospital",
+    "datimCode": "LliovAzxkgb"
+  },
+  {
+    "state": "Edo",
+    "lga": "Akoko-Edo",
+    "name": "Ibillo General Hospital",
+    "datimCode": "YPQQU02Is0Q"
+  },
+  {
+    "state": "Edo",
+    "lga": "Akoko-Edo",
+    "name": "Igarra General Hospital",
+    "datimCode": "FsXKw0S3P1q"
+  },
+  {
+    "state": "Edo",
+    "lga": "Ovia South-West",
+    "name": "Usen General Hospital",
+    "datimCode": "nWEz7nGVta0"
+  },
+  {
+    "state": "Edo",
+    "lga": "Ovia South-West",
+    "name": "Iguobazua General Hospital",
+    "datimCode": "BNvTkO5uvaN"
+  },
+  {
+    "state": "Edo",
+    "lga": "Ovia South-West",
+    "name": "Udo Primary Health Centre",
+    "datimCode": "BdkPVpsPvY2"
+  },
+  {
+    "state": "Edo",
+    "lga": "Esan Central",
+    "name": "Irrua Specialist Hospital",
+    "datimCode": "NIulfQauxlQ"
+  },
+  {
+    "state": "Edo",
+    "lga": "Owan West",
+    "name": "Sabongida Ora General Hospital",
+    "datimCode": "dPMz5hZCA4F"
+  },
+  {
+    "state": "Edo",
+    "lga": "Esan South-East",
+    "name": "Ubiaja General Hospital",
+    "datimCode": "FNn62Ztq2PG"
+  },
+  {
+    "state": "Edo",
+    "lga": "Esan North-East",
+    "name": "Uromi Central Hospital",
+    "datimCode": "cnBWjGNRURc"
+  },
+  {
+    "state": "Edo",
+    "lga": "Esan North-East",
+    "name": "St. Camillus Hospital",
+    "datimCode": "LORV7JnPq20"
+  },
+  {
+    "state": "Edo",
+    "lga": "Esan North-East",
+    "name": "Oriaifo Medical Centre",
+    "datimCode": "QYEUyQCxByE"
+  },
+  {
+    "state": "Edo",
+    "lga": "Egor",
+    "name": "University of Benin Teaching Hospital (UBTH)",
+    "datimCode": "bz9lwL7ta7W"
+  },
+  {
+    "state": "Edo",
+    "lga": "Egor",
+    "name": "Benin Evangel Model Hospital",
+    "datimCode": "kEoPeO75AG2"
+  },
+  {
+    "state": "Niger",
+    "lga": "Agaie",
+    "name": "Agaie General Hospital",
+    "datimCode": "XgAwGBrGbeg"
+  },
+  {
+    "state": "Niger",
+    "lga": "Bida",
+    "name": "General Hospital -Bida",
+    "datimCode": "r0EtZzrlrYb"
+  },
+  {
+    "state": "Niger",
+    "lga": "Bida",
+    "name": "Federal Medical Centre - Bida",
+    "datimCode": "sxh43Q2fp9k"
+  },
+  {
+    "state": "Niger",
+    "lga": "Gurara",
+    "name": "Family Medicine Practice Centre - Gawubabangida",
+    "datimCode": "NcHykmnJlCo"
+  },
+  {
+    "state": "Niger",
+    "lga": "Rafi",
+    "name": "General Hospital - Kagara",
+    "datimCode": "yxClkk4SCzL"
+  },
+  {
+    "state": "Niger",
+    "lga": "Kontagora",
+    "name": "Aminu Isah Kontagora General Hospital Bangi",
+    "datimCode": "oUA45oloVUN"
+  },
+  {
+    "state": "Niger",
+    "lga": "Kontagora",
+    "name": "Al-Azeez Medical Centre Kontagora",
+    "datimCode": "uMEtGqxOKrJ"
+  },
+  {
+    "state": "Niger",
+    "lga": "Kontagora",
+    "name": "General Hospital Kontagora",
+    "datimCode": "Znb4nTT8QvI"
+  },
+  {
+    "state": "Niger",
+    "lga": "Lavun",
+    "name": "GENERAL HOSP KUTIGI KUTIGI",
+    "datimCode": "IftOhYkOxD2"
+  },
+  {
+    "state": "Niger",
+    "lga": "Shiroro",
+    "name": "RURAL HOSP",
+    "datimCode": "TBmwZ9LSHfO"
+  },
+  {
+    "state": "Niger",
+    "lga": "Lapai",
+    "name": "MCH GULU",
+    "datimCode": "boIwPPchmTK"
+  },
+  {
+    "state": "Niger",
+    "lga": "Lapai",
+    "name": "General Hospital - Lapai",
+    "datimCode": "AhMWg4BfCR3"
+  },
+  {
+    "state": "Niger",
+    "lga": "Bosso",
+    "name": "PHC BOSSO SEC.",
+    "datimCode": "IPmL9mwpO8p"
+  },
+  {
+    "state": "Niger",
+    "lga": "Bosso",
+    "name": "BASIC HEALTH BEJI",
+    "datimCode": "mFpf0FXTHzL"
+  },
+  {
+    "state": "Niger",
+    "lga": "Mokwa",
+    "name": "G. HOSP MOKWA",
+    "datimCode": "W253OQ4f8sy"
+  },
+  {
+    "state": "Niger",
+    "lga": "Chanchaga",
+    "name": "OLD AIRPORT CLINIC",
+    "datimCode": "tCyeaSytxmN"
+  },
+  {
+    "state": "Niger",
+    "lga": "Chanchaga",
+    "name": "PHC TUNGAN WAYA",
+    "datimCode": "GxSUmojRHpC"
+  },
+  {
+    "state": "Niger",
+    "lga": "Chanchaga",
+    "name": "SAVANAH HOSPITAL",
+    "datimCode": "IhmTYwfsajE"
+  },
+  {
+    "state": "Niger",
+    "lga": "Chanchaga",
+    "name": "STANDARD HOSPITAL",
+    "datimCode": "AhmA0wHmVE1"
+  },
+  {
+    "state": "Niger",
+    "lga": "Chanchaga",
+    "name": "General Hospital - Minna",
+    "datimCode": "qadjYTdccOC"
+  },
+  {
+    "state": "Niger",
+    "lga": "Magama",
+    "name": "SHEHU SHAGARI GENERAL HOSPITAL NASKO",
+    "datimCode": "A2O8vKakKks"
+  },
+  {
+    "state": "Niger",
+    "lga": "Magama",
+    "name": "RURAL HOSP- AUNA",
+    "datimCode": "bK531CImu0U"
+  },
+  {
+    "state": "Niger",
+    "lga": "Borgu",
+    "name": "General Hospital - New Bussa",
+    "datimCode": "PLrNBrw12w4"
+  },
+  {
+    "state": "Niger",
+    "lga": "Borgu",
+    "name": "WAWA BHC",
+    "datimCode": "NnWGTRUw6lG"
+  },
+  {
+    "state": "Niger",
+    "lga": "Paikoro",
+    "name": "IbrahBabangida Specialist Hospital - Minna",
+    "datimCode": "aGpasZzMXCH"
+  },
+  {
+    "state": "Niger",
+    "lga": "Paikoro",
+    "name": "MCH K KORO",
+    "datimCode": "svjTbtRNldx"
+  },
+  {
+    "state": "Niger",
+    "lga": "Rijau",
+    "name": "GENERAL HOSPITAL T MAGAJIYA",
+    "datimCode": "D22YzjCtgyM"
+  },
+  {
+    "state": "Niger",
+    "lga": "Moya",
+    "name": "RURAL HOSPITAL S PAWA",
+    "datimCode": "J9ESFJXtePB"
+  },
+  {
+    "state": "Niger",
+    "lga": "Suleja",
+    "name": "SUZAN HOPSITAL",
+    "datimCode": "riRU6FlJVVR"
+  },
+  {
+    "state": "Niger",
+    "lga": "Suleja",
+    "name": "MADALLA MEMDICAL CENTRE",
+    "datimCode": "oenKdeklMdy"
+  },
+  {
+    "state": "Niger",
+    "lga": "Suleja",
+    "name": "LUCAS HOPSITAL",
+    "datimCode": "nI66rtJTsr9"
+  },
+  {
+    "state": "Niger",
+    "lga": "Suleja",
+    "name": "General Hospital - Suleja",
+    "datimCode": "MviB6BlDITF"
+  },
+  {
+    "state": "Niger",
+    "lga": "Suleja",
+    "name": "TOWN CLINIC",
+    "datimCode": "nnilM3jDaXI"
+  },
+  {
+    "state": "Niger",
+    "lga": "Tafa",
+    "name": "Umaru YarAdua Memorial Hospital - Sabonwuse",
+    "datimCode": "iFnNa3eXIu7"
+  },
+  {
+    "state": "Niger",
+    "lga": "Wushishi",
+    "name": "CHC ZUNGERU",
+    "datimCode": "HwtnV8T9Ez0"
+  },
+  {
+    "state": "Niger",
+    "lga": "Wushishi",
+    "name": "RURAL HOSP WUSHISHI",
+    "datimCode": "a8QWl1dG6L0"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer East",
+    "name": "Hossana Hospital - Aliade",
+    "datimCode": "PSewXHXf7oY"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer East",
+    "name": "Taraku Primary Health Center",
+    "datimCode": "anU88HoEhSo"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer East",
+    "name": "Igbor Primary Health Canter",
+    "datimCode": "VKDCUTo3uig"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer East",
+    "name": "Aliade General Hospital",
+    "datimCode": "OPnJnEYeq1I"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer East",
+    "name": "St. Gregory Health Center",
+    "datimCode": "ooVgKxaybti"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer East",
+    "name": "St. Vincents Hospital",
+    "datimCode": "IZyzmuDFVIJ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer East",
+    "name": "Gwer East CSCC",
+    "datimCode": "GG2GB39VPU2"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer East",
+    "name": "be Gwer East",
+    "datimCode": "PJJsxvEhEW5"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer East",
+    "name": "Aliade Comprehensive Health Centre",
+    "datimCode": "K4GfrZhCYcR"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer East",
+    "name": "Ikpayongo Primary Health Center",
+    "datimCode": "lkYAC6w1YrT"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ogbadibo",
+    "name": "be Ogbadibo",
+    "datimCode": "TaAqWZoyAof"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ogbadibo",
+    "name": "Ijadoga Otukpa General Hospital",
+    "datimCode": "qcPZlA9yzPu"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ogbadibo",
+    "name": "Orokam Primary Health Center",
+    "datimCode": "KbWXTRCZC4y"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ogbadibo",
+    "name": "Obu-Otukpa Primary Health Center",
+    "datimCode": "KA8T2JoKOo4"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "St. Martha's Clinic and Maternity - Ugbema",
+    "datimCode": "ylQ6RLXvHHJ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Anvambe Primary Health Center",
+    "datimCode": "nMO8qFMjftW"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Gbaja Primary Health Center",
+    "datimCode": "CyG4e1PNY2V"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Mbagen Community Health Service - Ashibi",
+    "datimCode": "rWLUwyvE2KL"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Clinic - Uatsor",
+    "datimCode": "w5XcPdO0vLh"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Primary Health Center - Agwabi Buruku",
+    "datimCode": "p8k5u3mv6dH"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Usen Tombo Primary Health Center",
+    "datimCode": "XnHRGEEKQSR"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Anonghul Primary Health Center",
+    "datimCode": "GVwSWUCUWPn"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Jingir Primary Health Center",
+    "datimCode": "R76nShpbpxl"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Sahara Clinic",
+    "datimCode": "YqtrJF9sW3U"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Otsafu Primary Health Center",
+    "datimCode": "SjBBChTSEEe"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Township Clinic",
+    "datimCode": "FUKJdEDgVT8"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Uga Primary Health Center",
+    "datimCode": "bkw7eER1sQg"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "General Hospital Buruku",
+    "datimCode": "hWsBYXZwHiP"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Anzembe Clinic",
+    "datimCode": "x0lTOYyB0Xq"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Agwabi Primary Health Center",
+    "datimCode": "nnocuY5Y1ve"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Kur Primary Health Center",
+    "datimCode": "bIMhLHumVOb"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Mbagen Community Hospital - Abwa",
+    "datimCode": "JVUE6hcwdYf"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Comprehensive Health Center - Garagbohol",
+    "datimCode": "Rf1yYN2IDWc"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Primary Health Center - Biliji",
+    "datimCode": "dOnbIETcQXX"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "PHC UGA Mbaikyongo",
+    "datimCode": "MCIHP012"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "TOWNSHIP C&M TYOWANYE",
+    "datimCode": "MCIHP008"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Tyowanye Primary Health Center",
+    "datimCode": "kPGQXJlsGON"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "be Buruku",
+    "datimCode": "QBFbFh5zJWX"
+  },
+  {
+    "state": "Benue",
+    "lga": "Buruku",
+    "name": "Adi Comprehensive Health Centre",
+    "datimCode": "DbxytJIMUtE"
+  },
+  {
+    "state": "Benue",
+    "lga": "Obi",
+    "name": "be Obi",
+    "datimCode": "PuJqb4zMn4A"
+  },
+  {
+    "state": "Benue",
+    "lga": "Obi",
+    "name": "Obarike-Ito General Hospital",
+    "datimCode": "Z4g8qfFBRMq"
+  },
+  {
+    "state": "Benue",
+    "lga": "Obi",
+    "name": "Obi KP One Stop Shop",
+    "datimCode": "agJqp4eCo7I"
+  },
+  {
+    "state": "Benue",
+    "lga": "Obi",
+    "name": "Okileme Primary Health Center",
+    "datimCode": "uSeJS22p2r2"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ohimini",
+    "name": "Ukpobi Primary Health Center",
+    "datimCode": "GSdeBtvfOfl"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ohimini",
+    "name": "Idekpa General Hospital",
+    "datimCode": "rjusKH8sGh2"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ohimini",
+    "name": "be Ohimini",
+    "datimCode": "nWLwNNNzJ7N"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "be Logo",
+    "datimCode": "ZewNOZ5xMp9"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Ikyo Primary Health Center",
+    "datimCode": "p744o3LL0jI"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Anyiin Primary Health Center",
+    "datimCode": "pwlvjbtM5oM"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Abeda Primary Health Center",
+    "datimCode": "Awp6evwdKBu"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Wende Primary Health Center",
+    "datimCode": "MYMZKfW4a4F"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "FSP ABEDA 1",
+    "datimCode": "MCIHP004"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Gboragayo Primary Health Centre",
+    "datimCode": "emodKJruXyL"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Igboughol Local Government Health Clinic",
+    "datimCode": "bsw3naXOOX1"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Mchia Local Government Health Center",
+    "datimCode": "TOL2FI5yOWq"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Hospital - Anyiin",
+    "datimCode": "VqKuYd50P6Z"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Dooshima Primary Health Centre",
+    "datimCode": "Sg1lTBErQMf"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Iorza Primary Health Center",
+    "datimCode": "zBwxOyfTqwm"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Ugba General Hospital",
+    "datimCode": "bTwuESPkfSO"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Uzer Local Government Health Center",
+    "datimCode": "ejgzakpM81n"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Ugba Comprehensive Health Center",
+    "datimCode": "QQLKjN6lqf7"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Abeda Shittille Primary Health Center",
+    "datimCode": "H9hiuwR1BNn"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Central Hospital Anyiin",
+    "datimCode": "SLUh7AIPl3P"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Live Clinic",
+    "datimCode": "RCVEsesYe2Z"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Maranatha Clinic Ugba",
+    "datimCode": "mmlEZKqZ9Ag"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Tordoo Clinic",
+    "datimCode": "wPBzr3bpuFY"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Zamzam Primary Health Center",
+    "datimCode": "IxCvwERm4RC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Akumator Health Centre",
+    "datimCode": "cePHHjZCGUB"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Ayilamo Primary Health Center",
+    "datimCode": "zBp4fj9LC7v"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Doodoo Clinic",
+    "datimCode": "CbpO0v7XB53"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Farmter Clinic Abeda",
+    "datimCode": "r2lBjhZUg8j"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Gonduzua Primary Health Center",
+    "datimCode": "LAyyrDvKqGe"
+  },
+  {
+    "state": "Benue",
+    "lga": "Logo",
+    "name": "Logo KP One Stop Shop",
+    "datimCode": "Jdrxjk48FWg"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "be Gboko General Hospital",
+    "datimCode": "mM8cuGsrg9b"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Amaladu Primary Health Center",
+    "datimCode": "ZhI01U6OW27"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Baki Clinic",
+    "datimCode": "I2YSBeACOiz"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Gboko South Primary Health Center",
+    "datimCode": "QW4jZGUGs0K"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Mbaswa Primary Health Center",
+    "datimCode": "mqXUgQzdrim"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) - Anyogo Comprehensive Health Center - Gboko East",
+    "datimCode": "RkCEl2a26MS"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Tse Akeme Primary Health Center",
+    "datimCode": "iVDvygVrrDg"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Tse Kucha Primary Health Center",
+    "datimCode": "BWwKy9VeLOM"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Akaa Primary Health Center",
+    "datimCode": "BIf4NpUc9tv"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "St. Luke's Hospital",
+    "datimCode": "isxf76zcl0z"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Lord Is Saviour Clinic and Maternity",
+    "datimCode": "iMjkGLzXZVu"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Kator Clinic",
+    "datimCode": "tYcGecpDRkl"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Myom Hospital - Gboko",
+    "datimCode": "KCeTZcNxHny"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Abetse Primary Health Center",
+    "datimCode": "ntf6fYxRAo7"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Akpagher Primary Health Center",
+    "datimCode": "hd4uvUNJmVb"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Ambigir Primary Health Center",
+    "datimCode": "meowU4BoPtC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Atuna Clinic and Maternity",
+    "datimCode": "WMifDMychYH"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Gboko CSCC",
+    "datimCode": "oY149KIEnUH"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Helen Clinic and Maternity",
+    "datimCode": "W4Td0Rr6gkF"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Mbaakanku Primary Health Center",
+    "datimCode": "imhNpRaqgMO"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Mercy Hospital",
+    "datimCode": "UKpHt1NMIzG"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Clinic - Genyi Yandev",
+    "datimCode": "iXF6l0KcQDv"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "St. Veronica Health Center",
+    "datimCode": "wmDk1IHm8kU"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Three Brothers Transport Hospital - Gboko",
+    "datimCode": "EyvD2SO18Ls"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Victory Hospital - Gboko",
+    "datimCode": "zR7wi1nIM3l"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Wih Abagen hospital",
+    "datimCode": "Xi5cekzA2M0"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Royal Hospital",
+    "datimCode": "yMpFDy64jKb"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Gboko East Comprehensive Health Center",
+    "datimCode": "NKBX6MV18q7"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Hospital - Mkar",
+    "datimCode": "LQY80730nX8"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Sev-Av Foundation - Gboko",
+    "datimCode": "ucA8oXS8NE4"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "be Gboko",
+    "datimCode": "i0MUgv6vIAM"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "Mba Agbanaya Primary Health Center",
+    "datimCode": "ucKq1EdGOxF"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "NKST Ikpa Primary Health Center",
+    "datimCode": "XBI5zRTPIDJ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gboko",
+    "name": "NKST Kuhe Primary Health Center",
+    "datimCode": "pyxmAN33vlC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Apa",
+    "name": "be Apa",
+    "datimCode": "OG6fY4TsvRM"
+  },
+  {
+    "state": "Benue",
+    "lga": "Apa",
+    "name": "Ugbokpo General Hospital",
+    "datimCode": "fhd28Wdp5gV"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ado",
+    "name": "Igumale General Hospital",
+    "datimCode": "RWy8gQx6BBr"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ado",
+    "name": "Ajio Local Government Health Center",
+    "datimCode": "kYQmzSgzCJX"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ado",
+    "name": "Apa Agila Primary Health Center",
+    "datimCode": "SXF4TsAilhP"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ado",
+    "name": "be Ado",
+    "datimCode": "qRUSFz9WFB6"
+  },
+  {
+    "state": "Benue",
+    "lga": "Agatu",
+    "name": "be Agatu",
+    "datimCode": "lUn6tmhyebg"
+  },
+  {
+    "state": "Benue",
+    "lga": "Agatu",
+    "name": "Obagaji General Hospital",
+    "datimCode": "QvHardKmAc7"
+  },
+  {
+    "state": "Benue",
+    "lga": "Agatu",
+    "name": "Enugba Primary Health Center",
+    "datimCode": "eB2VEMkcBvG"
+  },
+  {
+    "state": "Benue",
+    "lga": "Oju",
+    "name": "Bethesda Hospital - Ikachi",
+    "datimCode": "rEQ6l5PTFp8"
+  },
+  {
+    "state": "Benue",
+    "lga": "Oju",
+    "name": "Oju KP One Stop Shop",
+    "datimCode": "oSixBIvxNkT"
+  },
+  {
+    "state": "Benue",
+    "lga": "Oju",
+    "name": "Adiyama Hospital",
+    "datimCode": "K4GsTlokTy7"
+  },
+  {
+    "state": "Benue",
+    "lga": "Oju",
+    "name": "Igwe Ebong Primary Health Center",
+    "datimCode": "VHZ9GqTZE7f"
+  },
+  {
+    "state": "Benue",
+    "lga": "Oju",
+    "name": "Oju General Hospital",
+    "datimCode": "emFu7t4hkIR"
+  },
+  {
+    "state": "Benue",
+    "lga": "Oju",
+    "name": "be Oju",
+    "datimCode": "L9g3RB3Jqy3"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "be Katsina-Ala",
+    "datimCode": "DluyXbyv63Q"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Katsina Ala KP One Stop Shop",
+    "datimCode": "vHj4orcKGvC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Jou Mbatyough Primary Health Center",
+    "datimCode": "ZbriPIRKgkW"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Township Comprehensive Health Center",
+    "datimCode": "X6NyY4AiCxp"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Une Local Government Health Centre",
+    "datimCode": "KLtclHppMIU"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Abah Primary Health Center",
+    "datimCode": "jo7dambanj1"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Gbise Primary Health Centre",
+    "datimCode": "iltm59K9ug3"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Tion Kwase Primary Health Centre",
+    "datimCode": "IQPUFyBPKmz"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Mbaton Primary Health Center",
+    "datimCode": "m71YCQ1vobL"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Comprehensive Health Center - Harga",
+    "datimCode": "iLE60Uz1V74"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "be Katsina-Ala General Hospital",
+    "datimCode": "qoDgsyKHeoI"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Mba Agberabu Primary Health Centre",
+    "datimCode": "f9pNjCTIkeV"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Ndele Primary Health Center",
+    "datimCode": "SBpTQMTj2D6"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Primary Health Center - Anber",
+    "datimCode": "fqQMHzXeExZ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "St. Mary's Primary Health Center - Tor Donga",
+    "datimCode": "ph0DmxOzLrH"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Abakor Primary Health Care",
+    "datimCode": "ZBXG7XEJ03X"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Adikpo Katsina-Ala Primary Health Centre",
+    "datimCode": "VJPhKVM98uw"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Igbabaka Primary Health Centre",
+    "datimCode": "Jpn6N6zqMLg"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Kpiliki Clinic and Maternity",
+    "datimCode": "r3EhkbOx32N"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Mbasar Primary Health Centre",
+    "datimCode": "dXAyAAaM53N"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Nagu Primary Health Centre",
+    "datimCode": "Bx2hbPaU0O1"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Nahuta Hospital",
+    "datimCode": "yRpzCa8G6SZ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Nguher Clinic",
+    "datimCode": "voNNZ57SXoP"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Hospital - Sai",
+    "datimCode": "x9AGFcyHbas"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Primary Health Center - Kasar",
+    "datimCode": "bD3Z7sBYAkk"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Tarvachan Comprehensive Health Center",
+    "datimCode": "jGti2H2XezH"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Tordonga Primary Health Center",
+    "datimCode": "W5NNtTAwz9t"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "World Health System Sai",
+    "datimCode": "GCOrXvJq3Aq"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Amafor Primary Health Center",
+    "datimCode": "ShOkkjO7q4d"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Igyudu Primary Health Centre",
+    "datimCode": "KzPAvjygjiq"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Katsina-Ala KP One Stop Shop",
+    "datimCode": "RtOelMwHsKy"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Numbeve Primary Health Centre",
+    "datimCode": "iBE2tO1KDku"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Nyitar Local Government Health Center",
+    "datimCode": "U929QXtAK0i"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Gbor Comprehensive Health Center",
+    "datimCode": "UWfo9Vcmg6t"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Mercy Clinic",
+    "datimCode": "hcMSfOtTmuW"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Ikpaukur Local Government Health Center",
+    "datimCode": "rQOXT4Cy2Pj"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Mbatyula Local Goverment Health Centre",
+    "datimCode": "j1d80tpRRRb"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Seafa Clinic and Maternity",
+    "datimCode": "Xoj1RSPZgNb"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Manns Clinic and Maternity",
+    "datimCode": "VYCAuTYwbka"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Salem Clinic - Gbor",
+    "datimCode": "W0z2Y4xAH3N"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Dooter Clinic",
+    "datimCode": "SAvDO8AVdFH"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Bem Clinic",
+    "datimCode": "BRqwnMjuuez"
+  },
+  {
+    "state": "Benue",
+    "lga": "Katsina-Ala",
+    "name": "Convenant Clinic",
+    "datimCode": "fj8v2Srxtyx"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Makurdi Family Support Program Clinic",
+    "datimCode": "dWMSkFIYteW"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Benue Women Primary Health Center",
+    "datimCode": "SK0Tbjnhqol"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Rahama Clinic and Maternity",
+    "datimCode": "Km93XCNZYCr"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Homa Hospital",
+    "datimCode": "xSgOL9OVNfU"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Immaculate Hospital",
+    "datimCode": "baLNc1OTsyV"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Federal Medical Center - Makurdi",
+    "datimCode": "EA0gMmZjNn6"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Makurdi CSCC",
+    "datimCode": "EH08kwk1foy"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Sandra Hospital",
+    "datimCode": "CIb6wzAz9SW"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Ushakaa Hospital",
+    "datimCode": "FuHdYbMsHCb"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Yima Hospital",
+    "datimCode": "LKbSI2dBhSa"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Benue State University Teaching Hospital",
+    "datimCode": "AgRjHcsC4wf"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "City Hospital",
+    "datimCode": "P82OYKREDEj"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Ayaka Primary Health Center",
+    "datimCode": "oDccjROEjrd"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Grace Cottage Hospital",
+    "datimCode": "LBAGrpkYXFZ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Hope Hospital",
+    "datimCode": "aITz5usak9o"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Jolua Hospital",
+    "datimCode": "OvrEXmiUvLy"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "King Cross Clinic and Maternity",
+    "datimCode": "LU9X6cRfdAJ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Multicare Hospital",
+    "datimCode": "yNRTTH6Bi6I"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Northbank General Hospital",
+    "datimCode": "XAGjhppjhh3"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Bishop Murray Medical Center",
+    "datimCode": "xbHk6A9M5Ah"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Hemko Hospital",
+    "datimCode": "s9bl6apI0dc"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Queens Clinic",
+    "datimCode": "dYTwhf3cV9I"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Asiasa Primary Health Center",
+    "datimCode": "rLuGqHLz5O0"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "be Madonna Hospital",
+    "datimCode": "wGplUjLqgbW"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Our Saviour Hospital",
+    "datimCode": "DMLv2nDXczA"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "Lobi CSCC",
+    "datimCode": "FJ3vUFiJ6hq"
+  },
+  {
+    "state": "Benue",
+    "lga": "Makurdi",
+    "name": "be Makurdi",
+    "datimCode": "Q2Gb99dokfK"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "be Gwer West",
+    "datimCode": "bU41bAD1r84"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Mbaakem Health Centre",
+    "datimCode": "Guf2jRM5SyK"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Tongov Primary Health Centre",
+    "datimCode": "eeMmUo80f1k"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Aba Health Centre",
+    "datimCode": "AXPIJPRXo5s"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Abiam Family Support Program Clinic",
+    "datimCode": "ZRSpxqpZDVS"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "General Hospital Naka",
+    "datimCode": "A6vVFRBdTaM"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Jimba Primary Health Center",
+    "datimCode": "nn4VvQS8SqP"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Jor Maternal and Child Health Clinic",
+    "datimCode": "SSj1HfTYnTs"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Mbalosu Primary Health Centre",
+    "datimCode": "CtqZO3PKNim"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Mbashija Primary Health Centre",
+    "datimCode": "LVwYC7JU75B"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "St. Francis Primary Health Center - Agagbe",
+    "datimCode": "mfPtKtcH3hA"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Aondana Health Clinic",
+    "datimCode": "YLapZuUgSyj"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "European Economic Community Health Clinic",
+    "datimCode": "ugwMUWu3le4"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Fr. Mathias Clinic",
+    "datimCode": "KWB8RTTIeya"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Onmba Aondo Comprehensive Health Center",
+    "datimCode": "Ct8Iraz4Wwz"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Gwer West KP One Stop Shop",
+    "datimCode": "iuTSO2SYoLx"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Kwashon Primary Health Centre",
+    "datimCode": "oN3LGtxIZlk"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Nakar Gwer West Comprehensive Health Center",
+    "datimCode": "Nfc7dRyjli0"
+  },
+  {
+    "state": "Benue",
+    "lga": "Gwer West",
+    "name": "Mbaier Health Centre",
+    "datimCode": "EJQh7G0WPzD"
+  },
+  {
+    "state": "Benue",
+    "lga": "Okpokwu",
+    "name": "Okopga General Hospital",
+    "datimCode": "WqanRoYZhre"
+  },
+  {
+    "state": "Benue",
+    "lga": "Okpokwu",
+    "name": "St. Mary's Hospital - Okpoga",
+    "datimCode": "BX3EuUL4p5y"
+  },
+  {
+    "state": "Benue",
+    "lga": "Okpokwu",
+    "name": "Holy Name Clinic - Ugbokolo",
+    "datimCode": "jkTZCfjUJSI"
+  },
+  {
+    "state": "Benue",
+    "lga": "Okpokwu",
+    "name": "Alfa Clinic",
+    "datimCode": "PUgQr3FrIgs"
+  },
+  {
+    "state": "Benue",
+    "lga": "Okpokwu",
+    "name": "be Okpokwu",
+    "datimCode": "Sf0fPuVTEf1"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "be Ushongo",
+    "datimCode": "apUWJiF9sQ2"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Lessel General Hospital",
+    "datimCode": "Ce4ACYPH1gr"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Primary Health Center, Alumuku",
+    "datimCode": "bOlhinRMrJS"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Lobi",
+    "datimCode": "WoTFnThJ2ob"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Kartyo Comprehensive Health Center",
+    "datimCode": "oOwDebIrySs"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Mayange Primary Health Care",
+    "datimCode": "UdO3AJxt6D7"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Clinic -Aku",
+    "datimCode": "yk6RVaDElKT"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Health Center - Gbe",
+    "datimCode": "KNwYLS8wBMQ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Oostra-Gum Clinic and Maternity",
+    "datimCode": "oVvqxfB2P4W"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Ushongo Comprehensive Health Center",
+    "datimCode": "AC09BTkiT9k"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Waapera Comprehensive Health Center",
+    "datimCode": "Bt9AmJKxN28"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Yaakar Comprehensive Health Center",
+    "datimCode": "cIKRpGcM5yd"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Yanibo Clinic",
+    "datimCode": "mQvR7uUjq8a"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Yimase Clinic",
+    "datimCode": "qCNoZOVZNMS"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Atekombo Comprehensive Health Center",
+    "datimCode": "qHFn6eKPzZR"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Hegha Comprehensive Health Center",
+    "datimCode": "CZugrC0pZ3a"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Baki Clinic",
+    "datimCode": "UnkA6GX7nnG"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "St. Augustine Clinic",
+    "datimCode": "vsOSmmIFlY5"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Faith Health Clinic - Atoga",
+    "datimCode": "Mb6TF6q1qQF"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "St. Francis Primary Health Center",
+    "datimCode": "xJSu0qeS9vf"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "City Clinic",
+    "datimCode": "HznzDeNotIB"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Mgbayiman Clinic",
+    "datimCode": "GDWQ1gtrq7o"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Akerior Comprehensive Health Center",
+    "datimCode": "XS7oHkodgdY"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Tseghem Comprehensive Health Center",
+    "datimCode": "cOc62Ku53kR"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Progress Clinic",
+    "datimCode": "kWdcnanesGf"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Phesset Clinic",
+    "datimCode": "mHQFWXYfC6i"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Tyson Clinic",
+    "datimCode": "fRu5JBdDWTp"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Aku Primary Health Center",
+    "datimCode": "k9MhgZ2cUPG"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Bethsaida Clinic",
+    "datimCode": "EDdYwB26l0W"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "First Clinic and Maternity - Lobbi",
+    "datimCode": "RCNdVagYyNw"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Hitom Orbiam Comprehensive Health Center",
+    "datimCode": "JTD3QnVPI8l"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Maternal and Child Health Centre Lessel",
+    "datimCode": "vGJhQeNenm1"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Health Center - Ifo Mbakuwa",
+    "datimCode": "iCI3qip67kQ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Health Center - Korinjo",
+    "datimCode": "CiJA7pwWM1M"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Health Center - Lessel",
+    "datimCode": "pVuatRaVnJu"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ushongo",
+    "name": "Ushongo KP One Stop Shop",
+    "datimCode": "Nb4Em9Zs3Eq"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "May Memorial Hospital",
+    "datimCode": "ElnOS6Ya1ox"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Otukpo CSCC",
+    "datimCode": "qNdmOBdGQhk"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Nazareth Hospital",
+    "datimCode": "QpkrLj2knB6"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Salem Hospital",
+    "datimCode": "WCzlcV9pGtM"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Otukpo Comprehensive Health Center",
+    "datimCode": "xDrZUl3o7DR"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "St. Daniel Hospital",
+    "datimCode": "hs46vwSoags"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Otia Hospital - Otukpo",
+    "datimCode": "UPUz4QHOmfd"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Ihotu Clinic And Maternity",
+    "datimCode": "G1I22uSE1YC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Sev-Av Foundation - Otukpo",
+    "datimCode": "U69eo6GL6P1"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Oturkpo General Hospital",
+    "datimCode": "sjKFIaqLXzI"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "St. Charles' Hospital",
+    "datimCode": "jwRjWD3wLjp"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "St. Joseph's Hospital-Ogobia",
+    "datimCode": "sIqd320H5pa"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Maranatha Hospital - Otukpo",
+    "datimCode": "IxpCotD8DPx"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "St. Veronica Clinic and Maternity - Oturkpo",
+    "datimCode": "POuRUbKpyDl"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "St James Health Centre Ogboju-Ogobia",
+    "datimCode": "zuehjuhNlcJ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "St. Theresa Hospital - Otukpo",
+    "datimCode": "Anw44QfDgdC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Mount Zion Gate Hospital - Oturkpo",
+    "datimCode": "yYEWnsmGaEP"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "Onyangede Primary Health Center",
+    "datimCode": "odUEWUJrxFJ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Otukpo",
+    "name": "be Otukpo",
+    "datimCode": "RM45QszoeEi"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "be Konshisha",
+    "datimCode": "gpgLJrma8Tm"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Tse Agberagba General Hospital",
+    "datimCode": "lme06fE8INv"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Awajir Primary Health Center",
+    "datimCode": "LcmatEKK2mm"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "El Shaddai Clinic - Achocho",
+    "datimCode": "rkmUcjVWIEG"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Agidi Primary Health Centre",
+    "datimCode": "Vwphz4aVBkw"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Akputu Primary Health Center",
+    "datimCode": "xf0d6Ievr0Y"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Bonta Family Support Program Clinic",
+    "datimCode": "A0oG89zfO3P"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Dio Primary Health Center",
+    "datimCode": "RaK8oHAcaJx"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Hope Hospital - Gungul",
+    "datimCode": "Kx8nR3Z0zoJ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Igbughul Primary Health Center",
+    "datimCode": "oR3iWfmLDLd"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Jirgba Primary Health Center",
+    "datimCode": "ADRcchaSF89"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Kusa Erem Agbeede Health Clinic",
+    "datimCode": "n3leeELsmMM"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Lim Health Clinic",
+    "datimCode": "NFIT0fugpMz"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Mimi Clinic and Maternity",
+    "datimCode": "t8yzGeF3QOZ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Clinic - Ishua",
+    "datimCode": "tmdPeVe2bj9"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Royal Clinic and Maternity Wuese",
+    "datimCode": "lT0dFPuROo5"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Tyoate Comprehensive Health Center",
+    "datimCode": "ES15z3zgFpM"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Ikumbur Memorial clinic",
+    "datimCode": "ugvUhWcPhsa"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Mimidoo Clinic and Maternity - Gungul",
+    "datimCode": "uE7DozqVDx3"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Leke Clinic and Maternity",
+    "datimCode": "YMwV767vaxO"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Luter Health Clinic",
+    "datimCode": "fZtEYsSUToC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Usaka Health Clinic Tsuwe",
+    "datimCode": "lS9OJNmawzr"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Nyam Ugbeh Clinic",
+    "datimCode": "DbQwJh2aSqj"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Tse-Agbaragba Primary Health Center",
+    "datimCode": "VBS2KAxTWl8"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Korinya Primary Health Center",
+    "datimCode": "zOFJx0iZI6j"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Centre Clinic Korinya",
+    "datimCode": "PAEkoUsTqwP"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Adeke Health Clinic",
+    "datimCode": "bkN3ItOJJok"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Ada Model",
+    "datimCode": "VgWKjowLb8Z"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Akase Buruku Medical Centre Gungul",
+    "datimCode": "S0KHKAONgri"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Agbeede Primary Health Center",
+    "datimCode": "OK3KBevBxuF"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Gemanen Health Clinic Ageraga",
+    "datimCode": "jUTYBRwnEHz"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Ashido Clinic and Maternity",
+    "datimCode": "H5sqi75vXga"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Mbahan Health Clinic Ankugh",
+    "datimCode": "NnQBS3G7K8x"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "St. Joseph Maternity Clinic - Korinya",
+    "datimCode": "KLG4R1DqCDW"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Mhen Health Clinic Jov-Mbavaa",
+    "datimCode": "Hb4aAEXMUMh"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Jumota Health Clinic Tsuwe",
+    "datimCode": "BGygT2oyOXk"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Mkaa Health Clinic and Maternity",
+    "datimCode": "gmZiQa8rGP8"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Uboagere Comprehensive Health Center",
+    "datimCode": "jUhaJSvsg2f"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Sauki Health Clinic",
+    "datimCode": "pcpLg0h9HGx"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Ikpeakor Comprehensive Health Center",
+    "datimCode": "PNknx39XQ3D"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Konshisha KP One Stop Shop",
+    "datimCode": "GOdwTgMcYkt"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Mbaasham Health Center",
+    "datimCode": "xU6kWh9unZD"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Mbaikpande Health Clinic",
+    "datimCode": "udCzBxj1fs7"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Tongo Primary Health Center",
+    "datimCode": "ZYZAcgboJvx"
+  },
+  {
+    "state": "Benue",
+    "lga": "Konshisha",
+    "name": "Wuese Health Clinic",
+    "datimCode": "HrZP9L9jT9a"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Kyado Primary Health Center",
+    "datimCode": "ZHUzBV58GYR"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Zaki-Biam City Clinic and Maternity",
+    "datimCode": "RL4SNIxhQBi"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "King of Kings Clinic and Maternity",
+    "datimCode": "r0E0bUsIjrC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Afia Comprehensive Health Center",
+    "datimCode": "rU0owasuzGp"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Jordan Clinic and Maternity",
+    "datimCode": "Ki7oL3P60Gk"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Hospital- Zaki Biam",
+    "datimCode": "vDwjnLtvE9E"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Sankera General Hospital",
+    "datimCode": "qk2SW3ifeyo"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "St. Anthony's Hospital - Zaki Biam",
+    "datimCode": "UwPzLQbX6z0"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Asambe Primary Health Center",
+    "datimCode": "AptnTvyenuo"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Aterayange Comprehensive Health Center",
+    "datimCode": "yoiyriXtW1G"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Ayati Primary Health Center",
+    "datimCode": "Oexe9zs1Ehb"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Chito Local Government Health Center",
+    "datimCode": "xHCRTxh1UoC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Hwembe Comprehensive Health Center",
+    "datimCode": "JKhF15NVQ8N"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Iorna Clinic",
+    "datimCode": "vdABjhoRp53"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Kafa Clinic",
+    "datimCode": "Ikw1ubU63ji"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Melabu Comprehensive Health Center",
+    "datimCode": "XP2njsDoK3u"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Primary Health Center - Pervkyaa",
+    "datimCode": "AUxnTCxG8Hn"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Salvation Hospital",
+    "datimCode": "kOmUbf3xx0o"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Sankera Family Support Program Clinic",
+    "datimCode": "EGG0mUGRKdC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "St. Mary Primary Health Center - Chito",
+    "datimCode": "ROzMKxCUG62"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Vaase Local Government Health Center",
+    "datimCode": "PYkGrLe6kRy"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Ukum KP One Stop Shop",
+    "datimCode": "IpkjSyTCKdk"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "Woma Clinic and Maternity",
+    "datimCode": "j2rgCN38K5P"
+  },
+  {
+    "state": "Benue",
+    "lga": "Ukum",
+    "name": "be Ukum",
+    "datimCode": "cvkiCumu2an"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "be Vandeikya",
+    "datimCode": "FJ28GRyMVq9"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "St. Elizabeth Hospital",
+    "datimCode": "DPFnexGxRAT"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Anongu Primary Health Center",
+    "datimCode": "W0EYoKS92VC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Gbabgongon Primary Health Center",
+    "datimCode": "GtKJyoYuiDX"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Gbem Primary Health Center",
+    "datimCode": "btDbYq12rAW"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Ihugh Primary Health Center",
+    "datimCode": "oKaMsSZ4pzp"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "St. Paul's Clinic - Ikyaator",
+    "datimCode": "rl5sKUJnKn3"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Vandeikya Maternal and Child Health Clinic",
+    "datimCode": "ooGtz2a99Oc"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "St. Paul\"s Clinic - Sambe",
+    "datimCode": "Q47OYvdxPhQ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Tsar Model Primary Health Center",
+    "datimCode": "bPKw3iYUKCh"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Tsua Comprehensive Health Center",
+    "datimCode": "vER1NVmYmsU"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Tyam Comprehensive Health Center",
+    "datimCode": "WCHeWC7Nxsi"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Tyeminongu Local Government Health Center",
+    "datimCode": "qJAETCelgyS"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Vandeikya Primary Health Center",
+    "datimCode": "mtRcWAFc2BL"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Kishi Primary Health Center",
+    "datimCode": "i7iD5DwvlZM"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Comprehensive Health Center \u2013 Abwa",
+    "datimCode": "gbdLx16PC7F"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Maria Ines Hospital",
+    "datimCode": "ceWT53eKvUg"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Hospital - Mbaakon",
+    "datimCode": "fNNUQiVT6x3"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Sev-Av Foundation - Vandeikya",
+    "datimCode": "iU5WiOjaPBb"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "St. Thomas Hospital - Ihugh",
+    "datimCode": "r6flrs4ehWz"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Vandeikya General Hospital",
+    "datimCode": "fCwe9dV4kjP"
+  },
+  {
+    "state": "Benue",
+    "lga": "Vandeikya",
+    "name": "Vandeikya CSCC",
+    "datimCode": "uYCM5I1Rh34"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Gabriel Suswam Cottage Hospital - Tse Ugbena",
+    "datimCode": "G9RIOzlKB5n"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Icheen Clinic and Maternity",
+    "datimCode": "Ma9SyRevcp3"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Avaa Gbande Memorial Clinic and Maternity",
+    "datimCode": "kDvVOaWbp0s"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Adikpo General Hospital",
+    "datimCode": "mvMjGraGxvu"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "St. Monica's Hospital - Adikpo",
+    "datimCode": "ZOw5RCxEDrh"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Hospital - Jato Aka",
+    "datimCode": "NrQyKoUUTjl"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Comprehensive Health Center \u2013 Shangbum",
+    "datimCode": "cTOASc9flIi"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Primary Health Center - Ahobee",
+    "datimCode": "vhponVEgOwi"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "36 Matyrs Clinic- Mbape",
+    "datimCode": "T8MofW5CkkU"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Ada Comprehensive Health Center",
+    "datimCode": "TYesyFL0PHW"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Gube Primary Health Center",
+    "datimCode": "d4xIrfed7jC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Manyam Primary Health Center",
+    "datimCode": "lgXwl4gfzgN"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Tse-Kwange Primary Health Center",
+    "datimCode": "OpsgJWCwMYY"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Mbaikyo Comprehensive Health Center",
+    "datimCode": "liehdcJeQBZ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Jato Aka Primary Health Center",
+    "datimCode": "upbnYfp8caT"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Ugbokolo Comprehensive Health Center",
+    "datimCode": "NEntA3EhuNV"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Holy Child Clinic and Maternity",
+    "datimCode": "ecDDJ8UV2tN"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Koti Comprehensive Health Center",
+    "datimCode": "Wk7369Mhsof"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Msonter Clinic and Maternity",
+    "datimCode": "LOykIXc8jdW"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Nyihemba Primary Health Center",
+    "datimCode": "GMznf7OBnIg"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Iyon Comprehensive Health Center",
+    "datimCode": "J9ey3MmGspc"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "Ikyogen Primary Health Center",
+    "datimCode": "lHAkzMumFD8"
+  },
+  {
+    "state": "Benue",
+    "lga": "Kwande",
+    "name": "be Kwande",
+    "datimCode": "v7xGqiid6Pg"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "be Tarka",
+    "datimCode": "eFnaQTWW1DC"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Tiortyu Local Government Health Center",
+    "datimCode": "nV2DKeGv8AQ"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Aso Comprehensive Health Center",
+    "datimCode": "kexwjLUlsZy"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Asukunya Primary Health Center",
+    "datimCode": "InmLlQBslD6"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Clinic - Wannune",
+    "datimCode": "aUsI0GxqwfK"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Health Center - Uchi",
+    "datimCode": "UbFbAGiSBNv"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Aboho Primary Health Centre",
+    "datimCode": "PyyoRwjaZ6Z"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "PHC ATIGHIR 1",
+    "datimCode": "MCIHP001"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Gwarche Primary Health Centre",
+    "datimCode": "uPRX8ftEmL5"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Kpe-Ambila Primary Health Centre",
+    "datimCode": "G5eD8nBMRPO"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Tse-Akiishi Primary Health Center",
+    "datimCode": "jUXd98nF6tO"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Tse-Tiah Primary Health Centre",
+    "datimCode": "ZTPVFq6u1nN"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Health Center - Asukunya",
+    "datimCode": "G82knieoyf2"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "St. Christopher Health Clinic - Wannune",
+    "datimCode": "zJseTdMM6Ph"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "St. Michaels Clinic",
+    "datimCode": "SNb8IS5SukA"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Tarka KP One Stop Shop",
+    "datimCode": "e1QRJEXGDQe"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Township Clinic - Wannune",
+    "datimCode": "RlGe0zMvrra"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Wuatsa Family Support Program Clinic",
+    "datimCode": "f2gdbSL4kqK"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Wannune General Hospital",
+    "datimCode": "tCLZNcfcMy3"
+  },
+  {
+    "state": "Benue",
+    "lga": "Tarka",
+    "name": "Atighir Local Government Health Center",
+    "datimCode": "UPvsRuG3lnz"
+  },
+  {
+    "state": "Benue",
+    "lga": "Guma",
+    "name": "Abinisi Primary Health Center",
+    "datimCode": "aDbNi9qbrTa"
+  },
+  {
+    "state": "Benue",
+    "lga": "Guma",
+    "name": "Nongu u Kristu ke Sudan hen Tiv (NKST) Comprehensive Health Center - Isherev",
+    "datimCode": "t5kQRj3Oqrp"
+  },
+  {
+    "state": "Benue",
+    "lga": "Guma",
+    "name": "St. Michael's Clinic - Agasha",
+    "datimCode": "UD9kpV91uHO"
+  },
+  {
+    "state": "Benue",
+    "lga": "Guma",
+    "name": "Tugudu Primary Health Center",
+    "datimCode": "YlxyMD0zmCn"
+  },
+  {
+    "state": "Benue",
+    "lga": "Guma",
+    "name": "Ikyor Family Support Programme Clinic",
+    "datimCode": "wzrz2POvwJO"
+  },
+  {
+    "state": "Benue",
+    "lga": "Guma",
+    "name": "Gums KP One Stop Shop",
+    "datimCode": "PFPf00MqTg3"
+  },
+  {
+    "state": "Benue",
+    "lga": "Guma",
+    "name": "be Guma",
+    "datimCode": "YbtVeNOCICl"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akure South",
+    "name": "on Akure South",
+    "datimCode": "FpADQG6JcC5"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akure South",
+    "name": "First Mercy Specialist Hospital",
+    "datimCode": "pjkbKPartQG"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akure South",
+    "name": "Akure CSCC",
+    "datimCode": "Q5hZrNeFQfa"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akure South",
+    "name": "Arakale Comprehensive Health Center",
+    "datimCode": "BobjH7xBdDI"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akure South",
+    "name": "Mother And Child Hospital - Akure",
+    "datimCode": "GizRQMmx10i"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akure South",
+    "name": "State Specialist Hospital - Akure",
+    "datimCode": "yfLNltOE3ES"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akoko North West",
+    "name": "Irun Akoko General Hospital",
+    "datimCode": "kUHqhJqoDQA"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akoko North West",
+    "name": "on Akoko North West",
+    "datimCode": "a1YObf4CR93"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ondo East",
+    "name": "on Ondo East",
+    "datimCode": "xvPzCr7ZYEE"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ondo East",
+    "name": "Bolorunduro General Hospital",
+    "datimCode": "eFlBpM60SRs"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ose",
+    "name": "Ido-Ani General Hospital",
+    "datimCode": "R9sKiGC2aQS"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ose",
+    "name": "Ifon Basic Health Center",
+    "datimCode": "aRt2sinKKTL"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ose",
+    "name": "Ifon Comprehensive Health Center",
+    "datimCode": "ZeBoPcAheBr"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ose",
+    "name": "on Ose",
+    "datimCode": "WLQLVZAd77i"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ifedore",
+    "name": "on Ifedore",
+    "datimCode": "Vx6DDE2P1e8"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ifedore",
+    "name": "Igbara Oke General Hospital",
+    "datimCode": "T0DcrdHMRp9"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ifedore",
+    "name": "Police Clinic Akure",
+    "datimCode": "D8n3LndVJ7W"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ilaje",
+    "name": "on Ilaje",
+    "datimCode": "nxPuG6XnkxA"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ilaje",
+    "name": "Igbokoda General Hospital",
+    "datimCode": "rEOLbuPeN6z"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ese Odo",
+    "name": "St. Theresa's Catholic Health Center - Odo-Irele",
+    "datimCode": "h2r9wlaKJ49"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ese Odo",
+    "name": "on Ese Odo",
+    "datimCode": "GeeOYDsTZJU"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ese Odo",
+    "name": "Arogbo Primary Health Center",
+    "datimCode": "eMcoRUQ0YaS"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akure North",
+    "name": "on Akure North",
+    "datimCode": "oV6tlXANpkd"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akure North",
+    "name": "Oba-Ile Comprehensive Health Center",
+    "datimCode": "wuh106bjAdL"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akure North",
+    "name": "Iju Itaogbolu General Hospital",
+    "datimCode": "A57n2GGTg85"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akoko South East",
+    "name": "Ipe Akoko General Hospital",
+    "datimCode": "DmNUbQb4PRU"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akoko South East",
+    "name": "on Akoko South East",
+    "datimCode": "SiZyocWf5kz"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akoko North East",
+    "name": "on Akoko North East",
+    "datimCode": "PJ710HPntzX"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akoko North East",
+    "name": "State Specialist Hospital - Ikare",
+    "datimCode": "PVJ1iBCOkrp"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Okitipupa",
+    "name": "Igbotako General Hospital",
+    "datimCode": "H33MvD7JqC0"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Okitipupa",
+    "name": "Okitipupa State Specialist Hospital",
+    "datimCode": "ZfHqkRkgtyn"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Okitipupa",
+    "name": "on Okitipupa",
+    "datimCode": "cealFXAKL2I"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ile Oluji Okeigbo",
+    "name": "on Ile Oluji Okeigbo",
+    "datimCode": "O65wXRg0Ic3"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ile Oluji Okeigbo",
+    "name": "Ile-Oluji General Hospital",
+    "datimCode": "pHbdtisHupE"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ondo West",
+    "name": "State Specialist Hospital - Ondo",
+    "datimCode": "JKUabrYA2oL"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ondo West",
+    "name": "Maria Mater Misericordiae Catholic Hospital - Oke-Idera",
+    "datimCode": "QUYIJA1ZS8h"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ondo West",
+    "name": "Moferere-Oja Comprehensive Health Center",
+    "datimCode": "Xubfc1xadN5"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ondo West",
+    "name": "Mother and Child Hospital - Ondo",
+    "datimCode": "l0oK5kCcifq"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Ondo West",
+    "name": "on Ondo West",
+    "datimCode": "GAGxDMx8uvm"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Odigbo",
+    "name": "on Odigbo",
+    "datimCode": "dZRlykTqZhw"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Odigbo",
+    "name": "Ore General Hospital",
+    "datimCode": "SGlwI0BB3NM"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Irele",
+    "name": "Ode-Irele Comprehensive Health Center",
+    "datimCode": "Z9lldlqwYSa"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Irele",
+    "name": "on Irele",
+    "datimCode": "AZsdgJCaQWl"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Irele",
+    "name": "Ode Irele General Hospital",
+    "datimCode": "yoKGtFTi1Ge"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akoko South West",
+    "name": "Supare Model Primary Health Centre",
+    "datimCode": "Ct9GX0tFs5R"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akoko South West",
+    "name": "on Akoko South West",
+    "datimCode": "LM0SzUjIbAE"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akoko South West",
+    "name": "Iwaro-Oka General Hospital - Akoko",
+    "datimCode": "zhu21WthI6C"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Akoko South West",
+    "name": "St. Catherine's Hospital - Iwaro-Oka",
+    "datimCode": "GsMlnR6XQ5k"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Idanre",
+    "name": "Idanre General Hospital",
+    "datimCode": "AZUh5K9JF57"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Idanre",
+    "name": "on Idanre",
+    "datimCode": "InBkYWArQFT"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Owo",
+    "name": "on Owo",
+    "datimCode": "yQa2xS9x96u"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Owo",
+    "name": "Federal Medical Center - Owo",
+    "datimCode": "Lf5dipBTT0Z"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Owo",
+    "name": "Owo General Hospital",
+    "datimCode": "uqUGRphflWb"
+  },
+  {
+    "state": "Ondo",
+    "lga": "Owo",
+    "name": "Isaipen Basic Health Center",
+    "datimCode": "jnZPTIbnS5X"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Abeokuta South",
+    "name": "og State Hospital- Abeokuta",
+    "datimCode": "HYWDkjDbtyu"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Abeokuta South",
+    "name": "Federal Medical Center - Abeokuta",
+    "datimCode": "cIelM4DwtGv"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Abeokuta South",
+    "name": "Oba Ademola II Maternity Hospital",
+    "datimCode": "wTvQhvROH47"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Abeokuta South",
+    "name": "Oke-Ilewo Family Health Center",
+    "datimCode": "K2PdeGNHoCE"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Abeokuta South",
+    "name": "Sacred Heart Catholic Hospital-Abeokuta",
+    "datimCode": "DvOjpCpBtJj"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Abeokuta South",
+    "name": "og Abeokuta South",
+    "datimCode": "DGsvApy6NF9"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Abeokuta South",
+    "name": "Abeokuta CSCC",
+    "datimCode": "PBsYVhWpoZi"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ogun waterside",
+    "name": "Abigi Primary Health Center",
+    "datimCode": "qgBKVolwaYp"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ogun waterside",
+    "name": "og Ogun Waterside",
+    "datimCode": "sXqBQgQKqQj"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Abeokuta North",
+    "name": "og Abeokuta North",
+    "datimCode": "ac13I392HZi"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Abeokuta North",
+    "name": "Sabo Primary Health Care Center",
+    "datimCode": "zDMCQqdfBSs"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Yelwa North",
+    "name": "Ayetoro General Hospital",
+    "datimCode": "muPgi07IQTK"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Odogbolu",
+    "name": "og Odogbolu",
+    "datimCode": "UHsCCQQ8HOl"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Odogbolu",
+    "name": "Ososa Health Centre",
+    "datimCode": "hENxGvTY8VK"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Odeda",
+    "name": "General Hospital Odeda",
+    "datimCode": "FW2MDBrkFVu"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Odeda",
+    "name": "og Odeda",
+    "datimCode": "NWkcNnhkkZr"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ifo",
+    "name": "og Ifo",
+    "datimCode": "Ln5bTDtGDif"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ifo",
+    "name": "Kingsmith Hospital",
+    "datimCode": "gRL2av1Qyj4"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ifo",
+    "name": "Ajuwon Health Center",
+    "datimCode": "uzdONjEhlMH"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ifo",
+    "name": "Warewa Primary Health Centre",
+    "datimCode": "lUqTXn6mkB2"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ifo",
+    "name": "Ojodu Abiodun Primary Health Center",
+    "datimCode": "qiaLF7dtpvs"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ifo",
+    "name": "Agbado Primary Health Care Center",
+    "datimCode": "KK0KH975RZH"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ifo",
+    "name": "Olose Primary Health Center",
+    "datimCode": "b1gbOD6Lw5A"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ifo",
+    "name": "Jesus is Love and Power Catholic Hospital - Ifo",
+    "datimCode": "rQsDr0APXzb"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ifo",
+    "name": "Ifo General Hospital",
+    "datimCode": "CO28PVyyzuQ"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu East",
+    "name": "og Ijebu East",
+    "datimCode": "vDdqmCWm4Ca"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu East",
+    "name": "Ijebu Ife General Hospital",
+    "datimCode": "ZZJZfQ4WolH"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu ode",
+    "name": "og Ijebu Ode",
+    "datimCode": "pYomDDNQ6hO"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu ode",
+    "name": "Ita-Alapo Primary Health Center",
+    "datimCode": "tueCPc98YpF"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu ode",
+    "name": "Ita-Osu Primary Health Center",
+    "datimCode": "GTMoXWeaOEp"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu ode",
+    "name": "Okeoyinbo Primary Health Center",
+    "datimCode": "GVAVa1uPJze"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu ode",
+    "name": "State Hospital - Ijebu Ode",
+    "datimCode": "eg6CMvHMI9h"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu North",
+    "name": "og Ijebu North",
+    "datimCode": "MFGZuaAykM3"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu North",
+    "name": "og St Joseph Catholic Hospital - Ijebu Igbo",
+    "datimCode": "iIXPQlWb4Rg"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ikenne",
+    "name": "og Ikenne",
+    "datimCode": "kAWl47kmoyv"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ikenne",
+    "name": "Babcock University Teaching Hospital",
+    "datimCode": "rFWnUNqpHRu"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ikenne",
+    "name": "Ogere Primary Health Center - Ikenne",
+    "datimCode": "FblS4x3J5ye"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Yewa South",
+    "name": "Isaga Owode Health Center",
+    "datimCode": "VGPZqV1kLlD"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Yewa South",
+    "name": "St. Mary's Clinic - Ajilete",
+    "datimCode": "yEldGzZy7kS"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Yewa South",
+    "name": "Specialist Hospital - Ilaro",
+    "datimCode": "WnA94tQ9PZu"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Yewa South",
+    "name": "og Yewa North",
+    "datimCode": "XY5wcfahN5W"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Yewa South",
+    "name": "og Yewa South",
+    "datimCode": "ewh51nY512W"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Imeko-Afon",
+    "name": "og Imeko-Afon",
+    "datimCode": "mvsGm4vAS0k"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Imeko-Afon",
+    "name": "Imeko Primary Health Center",
+    "datimCode": "gGsinQ88Sq5"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ipokia",
+    "name": "Idi Iroko General Hospital",
+    "datimCode": "Ded9l89WnBh"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ipokia",
+    "name": "og Ipokia",
+    "datimCode": "D6rivmJFt33"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Sagamu",
+    "name": "og Sagamu",
+    "datimCode": "cx0xFi6L7Fp"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Sagamu",
+    "name": "Makun Primary Health Care",
+    "datimCode": "d0enmAlNy7c"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Sagamu",
+    "name": "Olabisi Onabanjo University Teaching Hospital",
+    "datimCode": "KTVjcTH4JeG"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Sagamu",
+    "name": "Ogijo Primary Health Care",
+    "datimCode": "K0W6Eo9ypUn"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu North East",
+    "name": "Ijari Model Health Clinic",
+    "datimCode": "Uv709zNDrrz"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ijebu North East",
+    "name": "og Ijebu North East",
+    "datimCode": "jUV75YrmoXh"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ewekoro",
+    "name": "og Ewekoro",
+    "datimCode": "D19ydhlaHnt"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ewekoro",
+    "name": "Primary Health Care Center Itori",
+    "datimCode": "gtbAWxg3ixR"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ado-Odo Ota",
+    "name": "Primary Health Centre Igbesa",
+    "datimCode": "NShZx4ifdNO"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ado-Odo Ota",
+    "name": "Ketu-Adie Owe Health Centre",
+    "datimCode": "ogsOc4Y488E"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ado-Odo Ota",
+    "name": "Atan Model Primary Health Center",
+    "datimCode": "ogBio975rv6"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ado-Odo Ota",
+    "name": "og Ado-Odo Ota",
+    "datimCode": "ZF2mGWrqp1t"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ado-Odo Ota",
+    "name": "Ijoko Primary Health Center",
+    "datimCode": "RuXsXz3hhGC"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ado-Odo Ota",
+    "name": "Ota Primary Health Center",
+    "datimCode": "fCB9EIDg0lM"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ado-Odo Ota",
+    "name": "Sango Ota Primary Health Center",
+    "datimCode": "jrlSMIy4Udi"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Ado-Odo Ota",
+    "name": "og State Hospital- Ota",
+    "datimCode": "O7WdfvvhhmG"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Remo North",
+    "name": "Isara State Hospital",
+    "datimCode": "GOVRwTHYMeH"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Remo North",
+    "name": "og Remo North",
+    "datimCode": "xvaHIN4Xroj"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Obafemi Owode",
+    "name": "og Obafemi Owode",
+    "datimCode": "Li453nnViez"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Obafemi Owode",
+    "name": "Obafemi Owode General Hospital",
+    "datimCode": "GjC1yqDHyxC"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Obafemi Owode",
+    "name": "Ofada Health Clinic",
+    "datimCode": "hE6LoL36XgW"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Obafemi Owode",
+    "name": "The Redeemer\u2019s Health Center",
+    "datimCode": "y9wt3U3r2hZ"
+  },
+  {
+    "state": "Ogun",
+    "lga": "Obafemi Owode",
+    "name": "Magboro Health Centre",
+    "datimCode": "hLRiYNXi1yZ"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North-East",
+    "name": "oy Ibadan North-East",
+    "datimCode": "dFj2ILZVfUi"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North-East",
+    "name": "St. Peters General Hospital - Aremo",
+    "datimCode": "L8ySVydOOzd"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North-East",
+    "name": "Alafara Oje Primary Health Center",
+    "datimCode": "du2NydHQODD"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North-East",
+    "name": "Iwo Road Primary Health Center",
+    "datimCode": "WSxGzRDVpuS"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North-East",
+    "name": "Okeadu Primary Health Center",
+    "datimCode": "UvLPMR8H7Jz"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogo Oluwa",
+    "name": "oy Ogo Oluwa",
+    "datimCode": "yNLdrMwLReu"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogo Oluwa",
+    "name": "Ajaawa Model Health Center",
+    "datimCode": "fD14mGxPP3L"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ona ara",
+    "name": "oy Ona Ara",
+    "datimCode": "SMv1QuqswmC"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ona ara",
+    "name": "AwotunOlosunPrimary Health Center",
+    "datimCode": "ymkPngayI7r"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ona ara",
+    "name": "Aba Emu Primary Health Center",
+    "datimCode": "K6oAJAHYX6N"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ona ara",
+    "name": "Alhaja Sarat Adesina Health Center - Ogbere Baba",
+    "datimCode": "ZTgqPka0AYA"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ona ara",
+    "name": "Alapafon Primary Health Center",
+    "datimCode": "gM1zDIOM7h4"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho South",
+    "name": "Ijeru Primary Health Center",
+    "datimCode": "howtD9nQh8e"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho South",
+    "name": "Ogbomosho State Hospital",
+    "datimCode": "fjiKMWnNBwn"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho South",
+    "name": "Adebayo Alata Primary Health Center",
+    "datimCode": "dZoqWgPkpXi"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho South",
+    "name": "oy Ogbomosho South",
+    "datimCode": "p7y3haZd6OO"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho South",
+    "name": "Ladoke Akintola University of Technology (LAUTECH) Teaching Hospital, Ogbomoso",
+    "datimCode": "bYiaeDQf9Uu"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibarapa North",
+    "name": "General Hospital Aiyete",
+    "datimCode": "GDkL9Dw5tXx"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibarapa North",
+    "name": "oy Ibarapa North",
+    "datimCode": "M0ujki7803y"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North",
+    "name": "oy Ibadan North",
+    "datimCode": "iydYKfCH5Cl"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North",
+    "name": "Comfort Medical Centre - Oyo",
+    "datimCode": "bxpxkMEq3fq"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North",
+    "name": "Ibadan CSCC",
+    "datimCode": "X6VWRr0oCnu"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North",
+    "name": "oy OLA Catholic Hospital- Oluyoro- Ibadan",
+    "datimCode": "In3kBMCkxaK"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North",
+    "name": "Bashorun Oluwonla Primary Health Center",
+    "datimCode": "IDTbUHFAKfU"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North",
+    "name": "Idi Ogungun Primary Health Center",
+    "datimCode": "lUK0PY9z0dH"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North",
+    "name": "University College Hospital",
+    "datimCode": "QdL8RSYxeLg"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North",
+    "name": "Adeoyo Maternity Hospital",
+    "datimCode": "MamvPxaqiTG"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North",
+    "name": "Bodija Olive Primary Health Center",
+    "datimCode": "npsYuLNW7pO"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ido",
+    "name": "Apete Primary Health Center",
+    "datimCode": "uU3mfYyerBo"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ido",
+    "name": "Omi Adio Primary Health Center",
+    "datimCode": "KkGxjEL6xe4"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ido",
+    "name": "oy Ido",
+    "datimCode": "QiWl2gmww69"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Egbeda",
+    "name": "oy Egbeda",
+    "datimCode": "zvDjtdkAuTP"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Egbeda",
+    "name": "Egbeda Primary Health Center Center",
+    "datimCode": "UjVlFadPaBN"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Egbeda",
+    "name": "St. Dominics Catholic Hospital - Ogungbade",
+    "datimCode": "JzYcMwOP9J6"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Egbeda",
+    "name": "Oloya Primary Health Center",
+    "datimCode": "UAkweLRXgy5"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Atiba",
+    "name": "Aafin Primary Health Center",
+    "datimCode": "VFHmekMPH7g"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Atiba",
+    "name": "Oke Olola Primary Health Center",
+    "datimCode": "yRbGgqKGLol"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Atiba",
+    "name": "oy Atiba",
+    "datimCode": "vmUxBIASp0I"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Orelope",
+    "name": "oy Orelope",
+    "datimCode": "WZhoAUn8Opk"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Orelope",
+    "name": "Igboho General Hospital",
+    "datimCode": "oXanQ9NfzcJ"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibarapa Central",
+    "name": "Igbo-Ora General Hospital",
+    "datimCode": "NKj88oJ9ACq"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibarapa Central",
+    "name": "Igbole Primary Health Center",
+    "datimCode": "NnaMUK7lUAl"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibarapa Central",
+    "name": "oy Ibarapa Central",
+    "datimCode": "AZ20YeJChyC"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibarapa Central",
+    "name": "Olugbon Medical Centre - Igboora",
+    "datimCode": "wYu6410ctAh"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibarapa Central",
+    "name": "Igbole Primary Health Center",
+    "datimCode": "s1oMfY5I5AY"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Olorunsogo",
+    "name": "oy Olorunsogo",
+    "datimCode": "p3M4FdE8RkC"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Olorunsogo",
+    "name": "Igbeti General Hospital",
+    "datimCode": "ty9jMW3us5b"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Saki East",
+    "name": "Ogboro Primary Health Center",
+    "datimCode": "dhw13NZ1dXs"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Saki East",
+    "name": "oy Saki East",
+    "datimCode": "UTmAHL0WmBn"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Afijio",
+    "name": "oy Afijio",
+    "datimCode": "IlkoZAYAoQs"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Afijio",
+    "name": "Ilora General Hospital",
+    "datimCode": "Klu5oTZCxfx"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Afijio",
+    "name": "Ilora Primary Health Center",
+    "datimCode": "nf8iMC6uQjS"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Oyo West",
+    "name": "Iseke Maternity Center",
+    "datimCode": "kgPjVzCl0lb"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Oyo West",
+    "name": "oy Oyo West",
+    "datimCode": "YMlSzHMFp3b"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Kajola",
+    "name": "oy Kajola",
+    "datimCode": "XXgCDEMk4Ha"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Kajola",
+    "name": "Okeho General Hospital",
+    "datimCode": "L0SpXvHcxlr"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ori Ire",
+    "name": "Ikoyi-Ile Primary Health Center",
+    "datimCode": "jN3f776qJBx"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ori Ire",
+    "name": "oy Ori Ire",
+    "datimCode": "oJiN1pog19z"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho North",
+    "name": "oy Ogbomosho North",
+    "datimCode": "ELWNSBUCfD3"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho North",
+    "name": "Bowen University Teaching Hospital (BUTH) - Ogbomosho",
+    "datimCode": "lfO3s7vhaJb"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho North",
+    "name": "Abogunde Baaki Health Center",
+    "datimCode": "POQZq9yYHfm"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho North",
+    "name": "Ojaigbo (IbrahTaiwo) Primary Health Center",
+    "datimCode": "ZpK48TCuLAi"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho North",
+    "name": "Okelerin Primary Health Center",
+    "datimCode": "f91G0i0RdAV"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho North",
+    "name": "Katangua Primary Health Center",
+    "datimCode": "ynsyxJ0lZB8"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ogbomosho North",
+    "name": "Ikose Primary Health Center",
+    "datimCode": "pEPN0Z3bAp1"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Irepo",
+    "name": "Olorunsogo Model Primary Health Center",
+    "datimCode": "CHOLZ7N4Nbp"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Irepo",
+    "name": "Kisi General Hospital",
+    "datimCode": "l7D0Lku4ECe"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Irepo",
+    "name": "oy Irepo",
+    "datimCode": "fV2Ogk0TO7p"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan South-West",
+    "name": "oy Ibadan South-West",
+    "datimCode": "KCu09ZdJTEL"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan South-West",
+    "name": "St. Anne's Anglican Hospital - Molete Ibadan",
+    "datimCode": "ZQYdcyj8Urc"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan South-West",
+    "name": "Jericho Specialist Hospital",
+    "datimCode": "DpCYi3E6I4c"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan South-West",
+    "name": "Ring Road State Hospital",
+    "datimCode": "oCR09FpTFh9"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "St. Mary\"s Catholic Hospital - Eleta",
+    "datimCode": "jyHRtpRCr7M"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "Agbongbon Health Center",
+    "datimCode": "Ysu6t7ZAvE1"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "Boluwaji Primary Health Center",
+    "datimCode": "KQkFrGHr2F3"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "Mapo Primary Health Center",
+    "datimCode": "X3vkz3uVNVC"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "Odinjo Primary Health Center",
+    "datimCode": "BQvikCG40GE"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "Oranyan Primary Health Center",
+    "datimCode": "ljnFSN5dej3"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "Aperin Oniyere Primary Health Center",
+    "datimCode": "MsWKOj2LI1c"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "Elekuro Primary Health Center",
+    "datimCode": "ymmkhJyzzCM"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "Molete Primary Health Center",
+    "datimCode": "RoF7mIJrWT8"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "oy Ibadan South-East",
+    "datimCode": "CtGoE7JQAiX"
+  },
+  {
+    "state": "Oyo",
+    "lga": "ibadan south-east",
+    "name": "Police Medical Center Eleyele",
+    "datimCode": "nVerMO4Hswv"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Akinyele",
+    "name": "Moniya General Hospital",
+    "datimCode": "mfJpRKicT5l"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Akinyele",
+    "name": "oy Akinyele",
+    "datimCode": "vpR6qB6b19O"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Akinyele",
+    "name": "Ojoo Primary Health Center",
+    "datimCode": "fLGtJdQIfx4"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Akinyele",
+    "name": "Shasha Primary Health Center",
+    "datimCode": "zLSVIa6jptU"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Akinyele",
+    "name": "Moniya Primary Health Center",
+    "datimCode": "o9UJUeIeW6P"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North-West",
+    "name": "Oniyanrin Primary Health Center",
+    "datimCode": "D5KBMs5woXi"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North-West",
+    "name": "Adifase-Apata Primary Health Center",
+    "datimCode": "Xoshbh1bKhK"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North-West",
+    "name": "Ori Eru Primary Health Center",
+    "datimCode": "SEiQ0JeZ4ZN"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North-West",
+    "name": "Ayeye Maternity Health Center",
+    "datimCode": "In6vgIxH9xS"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibadan North-West",
+    "name": "oy Ibadan North-West",
+    "datimCode": "iZCbzoOssS4"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Surulere",
+    "name": "oy Surulere",
+    "datimCode": "vO4O9o8Y2Be"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Surulere",
+    "name": "Gambari Primary Health Center",
+    "datimCode": "nexePdGcEqe"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Surulere",
+    "name": "Iresa Adu Primary Health Center",
+    "datimCode": "O6s6kaLSgEx"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibarapa East",
+    "name": "oy Ibarapa East",
+    "datimCode": "GOOy2mVNRd1"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Ibarapa East",
+    "name": "Eruwa General Hospital",
+    "datimCode": "SK1svp0M4SP"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Iseyin",
+    "name": "oy Iseyin",
+    "datimCode": "ZA3JkbqwvuA"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Iseyin",
+    "name": "Our Lady's Catholic Hospital - Iseyin",
+    "datimCode": "Inr4R6Tk5fE"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Iseyin",
+    "name": "Iseyin General Hospital",
+    "datimCode": "o9zWHFjhquv"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Saki West",
+    "name": "Isale Taba Model Primary Health Center",
+    "datimCode": "HUC75tHkfQZ"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Saki West",
+    "name": "Sango Primary Health Center",
+    "datimCode": "Bj87orelf78"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Saki West",
+    "name": "oy State Hospital- Saki",
+    "datimCode": "cNbVnYusOlF"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Saki West",
+    "name": "Baabo Primary Health Center",
+    "datimCode": "OYVA8Ooxh0G"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Saki West",
+    "name": "Baptist Medical Center - Saki",
+    "datimCode": "x6uBaUpHFXY"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Saki West",
+    "name": "oy Saki West",
+    "datimCode": "leA9yz8ggzz"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Atisbo",
+    "name": "oy Atisbo",
+    "datimCode": "dxrlspj18NY"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Atisbo",
+    "name": "Irawo-Ile Primary Health Care Centre",
+    "datimCode": "okth7hjdnDl"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Itesiwaju",
+    "name": "oy Itesiwaju",
+    "datimCode": "Kcr5bLQVHEd"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Itesiwaju",
+    "name": "Ipapo Primary Health Center",
+    "datimCode": "uvGJGWY57wX"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Itesiwaju",
+    "name": "Otu Comprehensive Health Center",
+    "datimCode": "lTEWZfKTz3X"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Iwajowa",
+    "name": "oy Iwajowa",
+    "datimCode": "bRYPnMBCWrq"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Iwajowa",
+    "name": "General Hospital Iwere Ile",
+    "datimCode": "RhO9TJzisV3"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Lagelu",
+    "name": "oy Lagelu",
+    "datimCode": "sjFUh2vg03X"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Lagelu",
+    "name": "Monatan Primary Health Center",
+    "datimCode": "QqqVjzHrEys"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Lagelu",
+    "name": "Ejioku Primary Health Center",
+    "datimCode": "ZYX4EObhvxY"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Lagelu",
+    "name": "Alegongo Primary Health Center",
+    "datimCode": "bXZx7WXtHkk"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Lagelu",
+    "name": "Iyana Church Primary Health Center",
+    "datimCode": "Nqd4Rx4KCmf"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Oluyole",
+    "name": "Adaramagbo Olomi Primary Health Center",
+    "datimCode": "gp5xo74SqKO"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Oluyole",
+    "name": "oy Oluyole",
+    "datimCode": "rWgqvOVxhQN"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Oluyole",
+    "name": "Lad Medical Centre - Ibadan",
+    "datimCode": "iecxi9sRFhf"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Oyo East",
+    "name": "Shekina Medical Centre - Oyo",
+    "datimCode": "sSruFErLzP3"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Oyo East",
+    "name": "oy Oyo East",
+    "datimCode": "RBnV0s4V6wj"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Oyo East",
+    "name": "Oba Adeyemi Primary Health Center",
+    "datimCode": "fYmoCLvfEcv"
+  },
+  {
+    "state": "Oyo",
+    "lga": "Oyo East",
+    "name": "oy State Hospital- Oyo",
+    "datimCode": "appJzgMDcmf"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos East",
+    "name": "Angware General Hospital",
+    "datimCode": "Ci4IlJo0THV"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos East",
+    "name": "Naton Fusa Primary Health Center",
+    "datimCode": "fN0gVuMbXSg"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos East",
+    "name": "pl Jos East",
+    "datimCode": "txdQuyYCpbb"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Bokkos",
+    "name": "pl Bokkos",
+    "datimCode": "D1XE609n41l"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Bokkos",
+    "name": "Bokkos Cottage Hospital",
+    "datimCode": "Y67HDCTta2a"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Bokkos",
+    "name": "Church of Christ in Nigeria (COCIN) Primary Health Center - Daffo",
+    "datimCode": "U0lOcVhCtvX"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Barkin Ladi",
+    "name": "Barkin Ladi General Hospital",
+    "datimCode": "HbuBf1D4gmG"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Barkin Ladi",
+    "name": "pl Barkin Ladi",
+    "datimCode": "gevUQQwMYsl"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Bassa",
+    "name": "pl Bassa",
+    "datimCode": "fRmH1IcpdA7"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Bassa",
+    "name": "Bassa Cottage Hospital",
+    "datimCode": "X3znG2aFpsf"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Bassa",
+    "name": "Evangelical Church of West Africa (ECWA) Health Clinic - Miango",
+    "datimCode": "zzxXMjcoHez"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Bassa",
+    "name": "Evangelical Church of West Africa (ECWA) Health Clinic - Rimi",
+    "datimCode": "g19eVBilFP8"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Bassa",
+    "name": "Seventh Day Adventist (SDA) Hospital - Jengre",
+    "datimCode": "Le18r1aY7bi"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos South",
+    "name": "Church of Christ in Nigeria (COCIN) Clinic - Gyel-Bukuru",
+    "datimCode": "kXMpdZaDwxW"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos South",
+    "name": "Vom Christian Hospital",
+    "datimCode": "fEPSauwf6T7"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos South",
+    "name": "Bukuru Central Primary Health Center",
+    "datimCode": "SdHMY0gtXVc"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos South",
+    "name": "Bukuru Express Primary Health Center",
+    "datimCode": "wyclwPixYHK"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos South",
+    "name": "Rayfield Primary Health Center",
+    "datimCode": "Xbj7dbNE0vR"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos South",
+    "name": "Dadin Kowa Comprehensive Health Center",
+    "datimCode": "KliDyHkXDRm"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos South",
+    "name": "Evangelical Church of West Africa (ECWA) Comprehensive Hospital - Bukuru",
+    "datimCode": "n3n9tC9qDI4"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos South",
+    "name": "Our Lady of Apostles Hospital & Orphanage - Zawan",
+    "datimCode": "a0wh6o0Urau"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos South",
+    "name": "pl Jos South",
+    "datimCode": "zBpF1qbeHxk"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos South",
+    "name": "Jos CSCC",
+    "datimCode": "PI67sPis1Y6"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Kanam",
+    "name": "pl Kanam",
+    "datimCode": "KW1MmI5AJ5C"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Kanam",
+    "name": "Gumsher Primary Health Care Center",
+    "datimCode": "MRNcNOs1UT6"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Kanam",
+    "name": "Dengi General Hospital",
+    "datimCode": "wZ4FJfYUSXp"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Bingham University Teaching Hospital",
+    "datimCode": "VyC5Ah2sxMg"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Evangelical Church of West Africa (ECWA) Health Clinic - Tudun Wada",
+    "datimCode": "gTSFUf3vFl3"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Evangelical Church of West Africa (ECWA) Health Clinic - Zabolo",
+    "datimCode": "UJA7SoZC1Of"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Faith Alive Foundation",
+    "datimCode": "CvVzWAc0dLb"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Jos University Teaching Hospital",
+    "datimCode": "dtgqizrS1Me"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Our Lady of Apostle (OLA) Hospital - Jos",
+    "datimCode": "gIwyL7hTdGY"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Plateau State Specialist Hospital",
+    "datimCode": "ugfwVdwIuIj"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Solat Women Hospital",
+    "datimCode": "OdFD1NyelFa"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Tundun Wada Primary Health Center",
+    "datimCode": "cdyDfwVgnJF"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Dogon Agogo Primary Health Center",
+    "datimCode": "E9tGyQQHvLk"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "pl Jos North",
+    "datimCode": "Kxb2aLH6aQE"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Jos North",
+    "name": "Hwolshe Medical Center",
+    "datimCode": "WnFVJtk3Ydm"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Kanke",
+    "name": "pl Kanke",
+    "datimCode": "h4GiCPKLpaj"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Kanke",
+    "name": "General Hospital Kanke",
+    "datimCode": "KBcptkF2eHP"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Kanke",
+    "name": "Dawaki Primary Health Care Center",
+    "datimCode": "OvInoMK6oef"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Kanke",
+    "name": "Kyankyang Primary Health Care Center",
+    "datimCode": "eSv0mvAmyC2"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Kanke",
+    "name": "Amper Central Primary Health Care Center",
+    "datimCode": "XoodAFXuLoR"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Kanke",
+    "name": "Amper Model Primary Health Care Center",
+    "datimCode": "y2m23OqDcyQ"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Langtang North",
+    "name": "Zamko Comprehensive Health Center",
+    "datimCode": "c1sMFxI54cS"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Langtang North",
+    "name": "pl Langtang General Hospital",
+    "datimCode": "SwpC6SazKp4"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Langtang North",
+    "name": "pl Langtang North",
+    "datimCode": "giwECr4xdr7"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Langtang South",
+    "name": "pl Langtang South",
+    "datimCode": "ol9Cy7ZHtmM"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Langtang South",
+    "name": "General Hospital Mabudi",
+    "datimCode": "AFevSuUns7y"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Langtang South",
+    "name": "Mabudi Primary Health Care Center",
+    "datimCode": "KSn1AS9deG0"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Langtang South",
+    "name": "Wubang Primary Health Care Center",
+    "datimCode": "zIBCQR2BIxA"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Mangu",
+    "name": "CCDP Hospital - Panyam",
+    "datimCode": "n7H11XCfDQT"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Mangu",
+    "name": "Church of Christ in Nigeria (COCIN) Hospital and Rehabilitation Center",
+    "datimCode": "Ylm55YT8Uc6"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Mangu",
+    "name": "Mangu General Hospital",
+    "datimCode": "eAM9CE6xQD6"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Mangu",
+    "name": "Kerang Primary Health Center",
+    "datimCode": "v9WcV8UHXKV"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Mangu",
+    "name": "pl Mangu",
+    "datimCode": "vnYPxzWEwMO"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Mangu",
+    "name": "Konbum Primary Health Centre",
+    "datimCode": "hAADI04UQVd"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Pankshin",
+    "name": "Cottage Hospital Dyerok",
+    "datimCode": "HZB1wwjs167"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Pankshin",
+    "name": "pl Pankshin",
+    "datimCode": "VsRXIP925Kr"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Pankshin",
+    "name": "Pankshin General Hospital",
+    "datimCode": "a9QRiuuNaRv"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Pankshin",
+    "name": "Town Clinic Primary Health Center",
+    "datimCode": "kQOwyChcUxY"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Qua'an Pan",
+    "name": "Kwalla General Hospital",
+    "datimCode": "Axs1Yufa0Pp"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Qua'an Pan",
+    "name": "St. Virgillus Catholic Rural Health Center",
+    "datimCode": "BQ6ZqTIJDra"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Qua'an Pan",
+    "name": "pl Quaan Pan",
+    "datimCode": "iWTaRRoO3JH"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Qua'an Pan",
+    "name": "Lardang Comprehensive Health Center",
+    "datimCode": "ryJ1gnzT3yb"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Riyom",
+    "name": "pl Riyom",
+    "datimCode": "FaxOzvxNTmQ"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Riyom",
+    "name": "General Hospital Riyom",
+    "datimCode": "HbM8RxtyFX7"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "pl Shendam",
+    "datimCode": "xcD0RUmcq3U"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "Dokan Tofa Primary Health Center",
+    "datimCode": "PO7wchS3gEt"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "Shendam B Primary Health Center",
+    "datimCode": "AlAZ1hJCw9t"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "Yelwa East Primary Health Center",
+    "datimCode": "ksCd2OtyPDj"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "Church of Christ in Nigeria (COCIN) Primary Health Center - Shendam",
+    "datimCode": "asNhmbLE45K"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "Shendam General Hospital",
+    "datimCode": "kvwUsWWt1z5"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "Bene Clinic",
+    "datimCode": "b3FFJlCczQ4"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "May Hospital - Shendam",
+    "datimCode": "TGsy8pKsBgj"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "Demshin Primary Health Center",
+    "datimCode": "PNKTMI5HPYc"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "Poeship Primary Health Center",
+    "datimCode": "ewm6ye84Eey"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Shendam",
+    "name": "Shendam A Primary Health Center",
+    "datimCode": "RqrbqtO8Pas"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Mikang",
+    "name": "Garkawa II Primary Health Care Center",
+    "datimCode": "zJjEv6wh2yR"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Mikang",
+    "name": "Tunkus General Hospital",
+    "datimCode": "LAzfkJ5YZG1"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Mikang",
+    "name": "Zomo Primary Health Care Center",
+    "datimCode": "wi7IBJsbIpw"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Mikang",
+    "name": "pl Mikang",
+    "datimCode": "DU7QFC4eurr"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Wase",
+    "name": "pl Wase",
+    "datimCode": "E7AUIdZIUma"
+  },
+  {
+    "state": "Plateau",
+    "lga": "Wase",
+    "name": "Federal Medical Center Wase",
+    "datimCode": "TPomqRTzLU2"
+  },
+  {
+    "state": "Abia",
+    "lga": "Aba South",
+    "name": "New Era Hospital",
+    "datimCode": "WbXARfYx9kz"
+  },
+  {
+    "state": "Abia",
+    "lga": "Aba South",
+    "name": "ab Aba South",
+    "datimCode": "sneW3AzybWl"
+  },
+  {
+    "state": "Abia",
+    "lga": "Aba South",
+    "name": "St. Anthony's hospital limited",
+    "datimCode": "VdlPkoQ1IFw"
+  },
+  {
+    "state": "Abia",
+    "lga": "Aba South",
+    "name": "St. Joseph Catholic Hospital- Ohabia",
+    "datimCode": "NBpPdHsoZge"
+  },
+  {
+    "state": "Abia",
+    "lga": "Aba South",
+    "name": "Mendel Hospital And Diagnostic Centre",
+    "datimCode": "GhE4KpcDirN"
+  },
+  {
+    "state": "Abia",
+    "lga": "Aba South",
+    "name": "New Era Specialist Hospital-Aba",
+    "datimCode": "01/02/1/2/2/0034"
+  },
+  {
+    "state": "Abia",
+    "lga": "Arochukwu",
+    "name": "Arochukwu General Hospital",
+    "datimCode": "01/03/1/2/1/0001"
+  },
+  {
+    "state": "Abia",
+    "lga": "Arochukwu",
+    "name": "ab Arochukwu",
+    "datimCode": "utjfWYGFWf9"
+  },
+  {
+    "state": "Abia",
+    "lga": "Arochukwu",
+    "name": "Arochukwu General Hospital",
+    "datimCode": "zvB6izLfV18"
+  },
+  {
+    "state": "Abia",
+    "lga": "Arochukwu",
+    "name": "St AnthonyS Hospital (Arochukwu)",
+    "datimCode": "fzZt2WvhJtp"
+  },
+  {
+    "state": "Abia",
+    "lga": "Umuahia South",
+    "name": "Abia State Specialist Hospital Amachara",
+    "datimCode": "ywF2kLomUsj"
+  },
+  {
+    "state": "Abia",
+    "lga": "Umuahia South",
+    "name": "ab Umuahia South",
+    "datimCode": "sjaIPoRZPBo"
+  },
+  {
+    "state": "Abia",
+    "lga": "Umuahia South",
+    "name": "St. Charles Hospital",
+    "datimCode": "khND4kbOfOG"
+  },
+  {
+    "state": "Abia",
+    "lga": "Bende",
+    "name": "Royal Cross Methodist Hospital",
+    "datimCode": "OpwgjB2ddq2"
+  },
+  {
+    "state": "Abia",
+    "lga": "Bende",
+    "name": "Nkechi Colwill Methodist Hospital",
+    "datimCode": "TcbFynQMySf"
+  },
+  {
+    "state": "Abia",
+    "lga": "Bende",
+    "name": "Chijioke Osogho Methodist Memorial Hospital",
+    "datimCode": "MmOG2HOLx86"
+  },
+  {
+    "state": "Abia",
+    "lga": "Bende",
+    "name": "ab Bende",
+    "datimCode": "hxL0g5v8Utk"
+  },
+  {
+    "state": "Abia",
+    "lga": "Aba North",
+    "name": "SEVENTH DAY ADVENTIST HOSPITAL",
+    "datimCode": "fHFnqRjG4TI"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ugwunagbo",
+    "name": "ab Ugwunagbo",
+    "datimCode": "WRdsg318pjK"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ugwunagbo",
+    "name": "Nwodaku Memory Hospital And Maternity",
+    "datimCode": "YcdbxsZp9v1"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ohafia",
+    "name": "Akahaba General Hospital",
+    "datimCode": "sX0F4zlnnow"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ohafia",
+    "name": "ab Ohafia",
+    "datimCode": "pZTnyzppDlO"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ohafia",
+    "name": "Ohafia General Hospital",
+    "datimCode": "OaOgwmK9RSh"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ohafia",
+    "name": "King of Kings Specialist Hospital",
+    "datimCode": "HfpHrPvkakp"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ukwa East",
+    "name": "Azumini Cottage Hospital",
+    "datimCode": "UuFV36398rs"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ukwa East",
+    "name": "ab Ukwa East",
+    "datimCode": "rUPLBHykOK5"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ukwa West",
+    "name": "ab Ukwa West",
+    "datimCode": "JReXS37mwcG"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ukwa West",
+    "name": "Owaza Cottage Hospital",
+    "datimCode": "NQxqpoy28mt"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ukwa West",
+    "name": "Denokem Hospital",
+    "datimCode": "FgfQDeu2KWK"
+  },
+  {
+    "state": "Abia",
+    "lga": "Isiala Ngwa North",
+    "name": "Okpuala Ngwa General Hospital",
+    "datimCode": "aojRW0meZjh"
+  },
+  {
+    "state": "Abia",
+    "lga": "Isiala Ngwa North",
+    "name": "ab Isialangwa North",
+    "datimCode": "GCY4ic15Vx9"
+  },
+  {
+    "state": "Abia",
+    "lga": "Isiala Ngwa North",
+    "name": "Central Medical Centre",
+    "datimCode": "O4rxs80kTpe"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ikwuano",
+    "name": "ab Ikwuano",
+    "datimCode": "B313k9dIuCR"
+  },
+  {
+    "state": "Abia",
+    "lga": "Ikwuano",
+    "name": "Michael Okpara University Of Agriculture Health Centre",
+    "datimCode": "wg1zSngSfJQ"
+  },
+  {
+    "state": "Abia",
+    "lga": "Isiala Ngwa South",
+    "name": "ab Isialangwa South",
+    "datimCode": "SQAfXNZsq0o"
+  },
+  {
+    "state": "Abia",
+    "lga": "Isiala Ngwa South",
+    "name": "Teresa Orsini Clinic",
+    "datimCode": "UXHxMId3Ui8"
+  }
+]
